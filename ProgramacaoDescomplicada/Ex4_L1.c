@@ -2,13 +2,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 int main() {
-    float x, quadrado;
+    float x, quadrado=0;
 
     printf("Digite um numero real: ");
     scanf("%f", &x);
 
     quadrado=x*x;
-    printf("O quadrado do numero %f é: %.2f\n", x, quadrado);
+    printf("O quadrado do numero %f e: %.2f\n", x, quadrado);
     system("pause");
     return 0;
 }
