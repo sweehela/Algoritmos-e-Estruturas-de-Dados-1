@@ -1,4 +1,4 @@
-//35. Sejam a e b os catetos de um triângulo, onde a hipotenuca é obtida pela equação: raiz de a^2+b^2. faça um programa que receba os valores a e b e calcule o valor da hipotenusa.
+//35. Sejam a e b os catetos de um triângulo, onde a hipotenusa é obtida pela equação: raiz de a^2+b^2. faça um programa que receba os valores a e b e calcule o valor da hipotenusa.
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>

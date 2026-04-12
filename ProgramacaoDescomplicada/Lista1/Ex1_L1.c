@@ -1,4 +1,4 @@
-//Faca um programa que leia um numero inteiro e o imprima.
+//Faça um programa que leia um numero inteiro e o imprima.
 #include <stdio.h>
 #include <stdlib.h>
 
