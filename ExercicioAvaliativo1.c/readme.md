@@ -1,0 +1,7 @@
+Exercicio: 
+
+Caso 1:
+
+Caso 2:
+
+Caso 3:
