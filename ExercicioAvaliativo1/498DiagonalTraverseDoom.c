@@ -78,7 +78,6 @@ int main( void ) {
         }
     }
 
-    //matrizes retangulares
     int *matColSize = ( int * ) malloc( sizeof( int ) );
     if ( matColSize == NULL ) return 1;
 
