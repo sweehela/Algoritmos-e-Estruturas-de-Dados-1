@@ -1,13 +1,3 @@
-/* 
-LeetCode 775 - Inversoes Globais e Locais (Global and Local Inversions)
-Versao usando AVL para estudar arvore balanceada.
-
-Ideia:
-- Inversoes locais: contar pares adjacentes nums[i] > nums[i+1]
-- Inversoes globais: ao inserir nums[i] na AVL, contar quantos elementos
-  ja inseridos sao maiores que nums[i].
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
